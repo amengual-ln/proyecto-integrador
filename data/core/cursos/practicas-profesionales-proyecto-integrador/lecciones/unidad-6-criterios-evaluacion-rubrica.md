@@ -381,6 +381,6 @@ El agente relevará la actividad del equipo en los repositorios indicados por la
 
 ## ¿Preguntas?
 
-- 📧 Email: agustin-bustos@isftn199.com.ar
+- 📧 Email: agustinbustos@abc.gob.ar
 - 📍 Consultorio: Aula 12, martes 15:00-16:00 (previa coordinación)
 - 💬 Slack (canal #proyecto-integrador): Respuesta en 24 horas
