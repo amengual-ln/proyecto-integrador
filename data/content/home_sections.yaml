@@ -132,8 +132,8 @@ process:
   - title: 2. Preinscripción en Línea
     text: Completá el formulario web con tus datos personales y la carrera seleccionada.
   - title: 3. Entrega de Documentación
-    text: Presentá fotocopia de DNI, constancia o título secundario, partida de nacimiento
-      y apto psicofísico en la sede.
+    text: Presentá fotocopia de DNI vigente, constancia o título secundario y la planilla
+      de inscripción en la sede.
   - title: 4. Taller Inicial y Cursada
     text: Participá de las jornadas de ambientación y comenzá la cursada vespertina
       de 18:00 a 22:30 hs.
@@ -189,8 +189,7 @@ faq:
       gratuitas.
   - question: ¿Cuáles son los requisitos de inscripción?
     answer: Tener secundario completo (o constancia de título en trámite), fotocopia
-      de DNI, partida de nacimiento, planilla de inscripción y certificado de aptitud
-      psicofísica.
+      de DNI vigente y planilla de inscripción.
   - question: ¿Los títulos otorgados son oficiales?
     answer: Sí, todos los títulos tienen validez nacional oficial bajo resoluciones
       de la Dirección General de Cultura y Educación.
@@ -224,8 +223,8 @@ contact:
     de ingreso o consultar a Secretaría.
   cta: Enviar Consulta
   alt_email:
-    email: isft199@abc.gob.ar
-    label: Correo institucional
+    email: isft199inscripciones@gmail.com
+    label: Correo de preinscripción
     title: Escribinos directamente
   progress_text: Paso 1 de 3
   privacy_note: Tus datos se gestionan de forma confidencial exclusivamente para fines
@@ -383,11 +382,10 @@ admision:
   requisitos_titulo: Qué necesitás para inscribirte
   requisitos:
   - text: Título secundario completo o constancia de título en trámite
-  - text: Fotocopia de DNI
+  - text: Fotocopia de DNI vigente
   - text: Analítico del secundario
-  - text: Partida de nacimiento
-  - text: Certificado de aptitud psicofísica
-  - text: Dos fotos 4×4
+  - text: Planilla de inscripción (archivo pendiente de publicación)
+  - text: SIU-Guaraní (enlace y fecha pendientes de confirmación)
   cifras:
   - title: 7 tecnicaturas
     text: Oferta vigente
